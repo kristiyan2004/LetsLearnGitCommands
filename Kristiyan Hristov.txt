@@ -1,1 +1,1 @@
-Hi! My name is Kristiyan Hristov. I am 18 years old. THIS IS ADDED FROM THE GITHUB WEBSITE.
+Hi! My name is Kristiyan Hristov. I am 18 years old. THIS IS ADDED FROM THE GITHUB WEBSITE. However this is added from Git Bash.
